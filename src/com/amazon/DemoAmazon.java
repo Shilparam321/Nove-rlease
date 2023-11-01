@@ -6,7 +6,7 @@ public class DemoAmazon {
 		System.out.println("welcome to GIT");
 		
 		System.out.println("wel come to Java");
-
+System.out.println("i am a working");
 	}
 	
 
