@@ -7,6 +7,9 @@ public class DemoAmazon {
 		
 		System.out.println("wel come to Java");
 System.out.println("i am a working");
+System.out.println("i am super");
+
+System.out.println("thank you so much");
 	}
 	
 
